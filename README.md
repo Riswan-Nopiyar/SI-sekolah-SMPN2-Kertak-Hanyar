@@ -1,6 +1,6 @@
 # SI-sekolah-smp-kertak-hanyar
 
-## Form Login
+## Halaman login
 ### Email    : Nopiyar@Proton.me
 ### Password : admin
 ![Login](https://user-images.githubusercontent.com/103617674/218426771-ce330f58-b448-488a-a8c6-a7cb7d5712de.png)
